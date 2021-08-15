@@ -1,7 +1,7 @@
 /**
 * @name Mobile to Desktop
 * @author blueb#7368
-* @version 1.1.0
+* @version 1.1.2
 * @description A theme based off of mobile discord
 * @source https://github.com/blueb442/mobiletodesktop
 * @updateUrl https://github.com/blueb442/mobiletodesktop/blob/main/mobiletodesktop.theme.css
@@ -78,4 +78,11 @@ button {
 }
 .accountProfileCard-1XCH88 {
     box-shadow: 0px 0px 40px var(--background-tertiary);
+}
+.threadSidebar-1o3BTy {
+    margin-left: -4px;
+    margin-right: 12px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
