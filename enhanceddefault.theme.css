@@ -8,7 +8,7 @@
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url("https://raw.githubusercontent.com/blueb442/mobiletodesktop/main/assets/Untitledgif-sticker-emoji.png");
+@import url("https://blueb442.github.io/enhanceddefault/image.png");
 
 
 body {
@@ -102,7 +102,7 @@ button[aria-label="Open sticker picker"] {
 
 
 .sprite-2iCowe {
-    background-image: url("https://raw.githubusercontent.com/blueb442/mobiletodesktop/main/assets/allinone-sprite.png");
+    background-image: url("https://blueb442.github.io/enhanceddefault/image.png");
     background-position: 50%;
     background-repeat: no-repeat;
     width: 22px;
