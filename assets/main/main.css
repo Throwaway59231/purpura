@@ -204,3 +204,16 @@ button[aria-label="Open sticker picker"] {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
+.jumpToPresentBar-G1R9s6 {
+    box-shadow: 0px 0px 15px var(--background-accent);
+}
+.newMessagesBar-265mhP {
+    margin-top: 6px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px var(--brand-experiment);
+}
+.wrapper-2aW0bm {
+    border-radius: 5px!important;
+    box-shadow: 0px 0px 15px var(--background-secondary-alt);
+}
