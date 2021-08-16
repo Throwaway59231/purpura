@@ -11,10 +11,10 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 
 **Images**
 (Please Note: the images are slightly distorted, Discord's new blurple looks purple in my screenshots for some reason, and this theme does not change the accent color. Sorry about that.)
+![GIF of Compacted Text Input Buttons in Action](https://cdn.discordapp.com/attachments/859147326055251988/876711068553072650/video0.gif)  
 ![Image of Server View (Linux)](https://i.imgur.com/OSMKy8d.png)  
 ![Image of Server View (macOS)](https://i.imgur.com/jlBBZp8.png)  
 ![Image of Server View (Windows](https://i.imgur.com/G3lJkSL.png)  
 ![Image of Compacted Text Input Buttons](https://i.imgur.com/iw3Uqvb.png)  
 ![Image of Ginto (Discord's New Font) Replacement](https://i.imgur.com/p9dKG6D.png)  
 ![Image of Roles](https://i.imgur.com/wwuC2EB.png)  
-![GIF of Compacted Text Input Buttons in Action](https://cdn.discordapp.com/attachments/859147326055251988/876711068553072650/video0.gif)  
