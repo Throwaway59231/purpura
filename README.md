@@ -10,7 +10,7 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 - Looks much better with Windows Discord's title bar
 
 **Images**
-(Please Note: the images are slightly distorted, Discord's new blurple looks purple in my screenshots for some reason, and this theme does not change the accent color. Sorry about that.)
+(Please Note: the images are slightly distorted, Discord's new blurple looks purple in my screenshots for some reason, and this theme does not change the accent color. Sorry about that.)  
 ![GIF of Compacted Text Input Buttons in Action](https://cdn.discordapp.com/attachments/859147326055251988/876711068553072650/video0.gif)  
 ![Image of Server View (Linux)](https://i.imgur.com/OSMKy8d.png)  
 ![Image of Server View (macOS)](https://i.imgur.com/jlBBZp8.png)  
