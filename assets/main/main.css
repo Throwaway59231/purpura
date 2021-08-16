@@ -217,3 +217,7 @@ button[aria-label="Open sticker picker"] {
     border-radius: 5px!important;
     box-shadow: 0px 0px 15px var(--background-secondary-alt);
 }
+.wrapper-35wsBm {
+    border-radius: 7px;
+    box-shadow: 0px 0px 15px var(--background-secondary);
+}
