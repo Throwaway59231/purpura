@@ -8,7 +8,7 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 - Makes roles round again
 - Rounds various elements a little more, including buttons, dropdowns, modals, and inputs.
 - Looks much better with Windows Discord's title bar
-- Shadows for New Messages and Jump to Bottom bars
+- Shadows for New Messages and Jump to Bottom bars, along with Message Hover buttons
 
 ## Images
 (Please Note: the images are slightly distorted, Discord's new blurple looks purple in my screenshots for some reason, and this theme does not change the accent color. Sorry about that.)  
