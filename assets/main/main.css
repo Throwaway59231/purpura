@@ -227,3 +227,15 @@ button[aria-label="Open sticker picker"] {
 .timestamp-3ZCmNB {
     font-family: var(--font-display);
 }
+.chatHeaderBar-4vZS1x {
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px var(--background-secondary-alt);
+}
+.container-3hZ-gs {
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px var(--background-secondary-alt);
+}
+.reaction-1hd86g:hover {
+    box-shadow: 0px 0px 5px var(--brand-experiment);
+}
