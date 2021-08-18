@@ -250,3 +250,26 @@ button[aria-label="Open sticker picker"] {
     border-radius: 10px;
     background-color: var(--background-primary)!important;
 }
+.messagesPopoutWrap-1MQ1bW {
+    border-radius: 5px;
+}
+.header-ykumBX {
+    background-color: var(--background-secondary-alt);
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+.footer-1kmXd4 {
+    margin-top: 10px;
+    padding: 5px;
+    background-color: var(--background-secondary-alt);
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+.container-enaOkj {
+    border-radius: 5px;
+}
+.header-2-Imhb {
+    background-color: var(--background-secondary-alt);
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+.scroller-tlc3kG {
+    margin-top: 5px;
+}
