@@ -295,3 +295,170 @@ button[aria-label="Open sticker picker"] {
 .searchMessage-2dNwh2 {
     font-family: var(--font-display);
 }
+
+.imageWrapper-2p5ogY {
+    border-radius: 5px!important;
+}
+.attachment-33OFj0 {
+    border-radius: 5px!important;
+    border-color: var(--background-secondary);
+    box-shadow: 0px 0px 5px var(--background-secondary);
+}
+.wrapper-39oAo3 {
+    border-radius: 10px!important;
+    box-shadow: 0px 0px 10px var(--background-tertiary);
+}
+.botTag-3W9SuW {
+    border-radius: 5px!important;
+    box-shadow: 0px 0px 5px var(--brand-experiment);
+}
+.mention {
+    border-radius: 5px!important;
+}
+.floating-window {
+    border-radius: 8px!important;
+    box-shadow: 0px 0px 10px var(--background-floating);
+}
+.floating-window-titlebar {
+    background-color: var(--background-floating);
+}
+#bd-editor-controls {
+    background-color: var(--background-tertiary)!important;
+}
+.px-10SIf7 {
+    border-radius: 5px!important;
+    box-shadow: 0px 0px 5px var(--brand-experiment);
+}
+.content-1x5b-n {
+    border-radius: 5px;
+}
+.menu-3sdvDG {
+    border-radius: 8px;
+}
+.item-1tOPte {
+    border-radius: 5px;
+}
+.grabber-3mFHz2 {
+    border-radius: 30px;
+}
+.group-1WdBVp {
+    border-radius: 10px;
+    border-color: var(--background-secondary);
+    box-shadow: 0px 0px 10px var(--background-secondary-alt);
+}
+.deny-3nAuT6 {
+    background-color: var(--background-secondary-alt);
+}
+.allow-1PzSY3 {
+    background-color: var(--background-secondary-alt);
+}
+.deny-3nAuT6:hover {
+    background-color: var(--background-primary);
+}
+.allow-1PzSY3:hover {
+    background-color: var(--background-primary);
+}
+.item-1yAxl1.passthrough-1c2ewQ.selected-2YhbGh {
+    background-color: var(--background-secondary);
+}
+.cardContent-qqqwo8 {
+    box-shadow: 0px 0px 5px var(--background-secondary);
+}
+.card-4s8auQ {
+    box-shadow: 0px 0px 5px var(--background-secondary);
+}
+.card-o7rAq- {
+    border-radius: 10px;
+    border-color: var(--background-secondary)!important;
+    box-shadow: 0px 0px 5px var(--background-secondary);
+}
+.iconWrapper-lS1uig {
+    background-color: var(--background-secondary-alt);
+}
+.ctaBar-2UsjF2 {
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px var(--background-secondary);
+}
+.carouselItemSelected-JFUsnG {
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+.root-1gCeng {
+    border-radius: 10px;
+}
+.addButton-pcyyf6 {
+    padding: 4px;
+    border-radius: 10px!important;
+}
+.emptyChannelIcon-cc932w {
+    box-shadow: 0px 0px 3px var(--interactive-muted);
+}
+.infoScroller-1Qu30O {
+    background-color: var(--background-secondary-alt);
+}
+.body-r6_QPy {
+    background-color: var(--background-secondary-alt);
+}
+.topSection-y3p-_D {
+    background-color: var(--background-secondary);
+}
+.avatar-AvHqJA.wrapper-3t9DeA {
+    border: 8px solid var(--background-secondary);
+    background-color: var(--background-secondary);
+}
+.header-4zuFdR {
+    background-color: var(--background-secondary);
+}
+.tabBarContainer-37hZsr {
+    border: 0px!important;
+}
+.icon-3o6xvg {
+    border-radius: 30px;
+}
+.popout-APcvZm {
+    border-radius: 8px;
+}
+.header-1VS4tm {
+    padding-top: 3px;
+    padding-left: 20px;
+    padding-bottom: 3px;
+    background-color: var(--background-secondary-alt);
+}
+.spoilerText-3p6IlD {
+    border-radius: 5px;
+}
+.button-1vm4ZO:nth-of-type(odd) {
+    margin-right: 5px;
+}
+.messageGroupWrapper-o-Zw7G {
+    margin: 5px;
+    border: 0px solid var(--background-secondary);
+    box-shadow: 0px 0px 10px var(--background-secondary-alt);
+}
+.jumpButton-2dvRSC {
+    border-radius: 5px;
+    margin: 5px;
+}
+.formNotice-2_hHWR {
+    border: 0px;
+    box-shadow: 0px 0px 5px var(--background-secondary);
+}
+.layout-2DM8Md {
+    border-radius: 8px;
+}
+.role-3UN8jj {
+    border-radius: 20px;
+}
+.roleColor-fHISxl {
+    width: 13px;
+    height: 13px;
+    margin-left: -2px;
+}
+.role-3UN8jj:hover {
+    background-color: var(--background-tertiary);
+}
+.item-PXvHYJ {
+    border-radius: 5px!important;
+}
+.tabBarItem-3dfX8P {
+    border-radius: 0px!important;
+}
