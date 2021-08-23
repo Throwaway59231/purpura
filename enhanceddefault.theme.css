@@ -1,7 +1,8 @@
 /**
 * @name Enhanced Default
-* @author blueb#7368
-* @version 1.4.6
+* @author blueb
+* @authorId 403390454273409028
+* @version 1.5.0
 * @description A theme based off of mobile discord, with enhancements
 * @source https://github.com/blueb442/enhanceddefault
 * @updateUrl https://github.com/blueb442/enhanceddefault/blob/main/enhanceddefault.theme.css
@@ -13,3 +14,45 @@
 /* Commissioner font, and image assets, still very important, please do not remove. */
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://blueb442.github.io/enhanceddefault/assets/allinone-sprite.png');
+
+/* Change variables such as background colors, etc. */
+/* Change "dark" to "light" if you use light theme. */
+.theme-dark {
+    /* Text Colors */
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --textbox-markdown-syntax: #8e9297;
+    --info-help-text: #fff;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    /* Background Colors */
+    --background-primary: #36393f;
+    --background-secondary: #2f3136;
+    --background-secondary-alt: #292b2f;
+    --background-tertiary: #202225;
+    --background-accent: #4f545c;
+    --background-floating: #18191c;
+
+    --channeltextarea-background: #40444b;
+    --activity-card-background: #202225;
+
+    --background-mobile-primary: #36393f;
+    --background-mobile-secondary: #2f3136;
+
+    --background-modifier-hover: rgba(79,84,92,0.16);
+    --background-modifier-active: rgba(79,84,92,0.24);
+    --background-modifier-selected: rgba(79,84,92,0.32);
+    --background-modifier-accent: hsla(0,0%,100%,0.06);
+
+    --scrollbar-thin-thumb: #202225;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #202225;
+    --scrollbar-auto-track: transparent;
+
+    --scrollbar-auto-scrollbar-color-thumb: #202225;
+    --scrollbar-auto-scrollbar-color-track: transparent;
+}
