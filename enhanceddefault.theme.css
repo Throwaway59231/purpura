@@ -21,6 +21,7 @@
 
 /* Change variables such as background colors, etc. */
 /* Change "dark" to "light" if you use light theme. */
+/* Use Extras? Remove this vvv*/
 .theme-dark {
     /* Text Colors */
     --header-primary: #fff;
