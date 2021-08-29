@@ -310,7 +310,7 @@ button[aria-label="Open sticker picker"] {
 }
 .botTag-3W9SuW {
     border-radius: 5px!important;
-    box-shadow: 0px 0px 5px var(--brand-experiment);
+    box-shadow: 0px 0px 1px var(--brand-experiment);
 }
 .mention {
     border-radius: 5px!important;
