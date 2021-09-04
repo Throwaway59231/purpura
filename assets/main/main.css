@@ -866,3 +866,65 @@ button[aria-label="GIF 선택기 열기"] {
 .container-jSV3OF {
     border-radius: 8px!important;
 }
+
+.enableContainer-6E-puu {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.welcomeChannel-1rFrIO {
+    border-radius: 8px;
+}
+.item-26Dhrx {
+    border-radius: 8px!important;
+}
+.previewMessage-1ZN7YG {
+    border-radius: 8px!important;
+}
+.preview-2Vkbi6 {
+    border-radius: 8px!important;
+    border-color: transparent;
+    box-shadow: 0px 0px var(--background-secondary) 5px!important;
+}
+.warning-3C2pOH {
+    border-radius: 8px!important;
+}
+.button-38aScr {
+    border-radius: 8px!important;
+}
+.keybindShortcut-1BD6Z1 span {
+    border-radius: 6px;
+}
+.connectedAccount-2Jb-Z0 {
+    border-color: transparent;
+    background-color: var(--background-tertiary);
+    box-shadow: 0px 0px var(--background-tertiary) 5px!important;
+}
+.listRow-1iDGel {
+    border-radius: 8px;
+}
+.divider-3_HH5L {
+    border-radius: 8px;
+    box-shadow: 0px 0px var(--background-secondary-alt) 3px!important;
+}
+.image-3XsqGc {
+    margin-bottom: -1px;
+    height: 230%;
+}
+.title-FVgbgL {
+    margin-bottom: 2px;
+}
+.unreadMentionsBar-1Bu1dC {
+    box-shadow: 0px px hsl(359,calc(var(--saturation-factor, 1)*82.6%),59.4%) 10px!important;
+}
+.repliedMessage-VokQwo:before {
+    border-color: var(--background-secondary-alt);
+}
+.textBadge-1iylP6 {
+    display: none;
+}
+.wrapper-2aW0bm {
+    border-radius: 8px!important;
+}
+.pictureInPictureVideo-2iKsGg {
+    border-radius: 8px!important;
+}
