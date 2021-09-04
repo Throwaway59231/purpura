@@ -25,5 +25,5 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 *Image of the more compact emoji, gif, and stickers button*  
 ![Image of Ginto (Discord's New Font) Replacement](https://i.imgur.com/p9dKG6D.png)  
 *Replacement of Ginto font, Commissioner*  
-![Image of Roles](https://i.imgur.com/wwuC2EB.png)  
+![Image of Roles](https://i.imgur.com/Cd70aws.png)  
 *Rounded roles*
