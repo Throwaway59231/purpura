@@ -1019,3 +1019,47 @@ button[aria-label="GIF 선택기 열기"] {
 .macButtonMaximize-2FMHAO:hover {
     background-color: #34c749;
 }
+.tabBarItem-3dfX8P {
+    border-radius: 0px!important;
+}
+.typeWindows-1za-n7 {
+    padding-top: 5px;
+    margin-top: 0px!important;
+    background-color: var(--background-secondary-alt);
+    box-shadow: 0px 1px 10px var(--background-secondary-alt);
+}
+.scroller-1Bvpku {
+    margin-top: 5px;
+}
+
+/* Spotify Controls */
+.textScroller-dc9_kz {
+    font-family: var(--font-display);
+}
+.cover-SwJ-ck {
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px var(--background-tertiary)!important;
+}
+.timeline-UWmgAx:hover .barFill-Dhkah7 {
+    background: var(--brand-experiment-400)!important;
+}
+.bar-g2ZMIm {
+    box-shadow: 0px 0px 6px var(--background-secondary-alt)!important;
+}
+.barText-lmqc5O {
+    font-family: var(--font-display);
+}
+
+/* listen along */
+.invite-18yqGF {
+    border-radius: 8px!important;
+    border-color: transparent!important;
+    box-shadow: 0px 0px 10px var(--background-tertiary);
+    background-color: var(--background-tertiary)!important;
+}
+.artworkActionable-10hKry {
+    border-radius: 8px;
+}
+.coverImageActionable-1TMryE.blurred-UUeCTs {
+    filter: blur(3px);
+}
