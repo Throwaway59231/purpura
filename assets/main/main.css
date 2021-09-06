@@ -989,3 +989,33 @@ button[aria-label="GIF 선택기 열기"] {
 .pictureInPictureVideo-2iKsGg {
     border-radius: 8px!important;
 }
+
+/* Mac Buttons */
+.macButton-c_Adir {
+    width: 13px;
+    height: 13px;
+    background-color: inherit;
+    border-width: 0.5px!important;
+    border-style: solid;
+    border-color: var(--background-primary)!important;
+}
+.macButton-c_Adir:hover {
+    width: 13px;
+    height: 13px;
+    background-color: inherit;
+    border-width: 0.5px!important;
+    border-style: solid;
+    border-color: var(--background-secondary)!important;
+}
+.macButtons-2MuSAC {
+    background-color: transparent;
+}
+.macButtonClose-MwZ2nf:hover {
+    background-color: #fc615d;
+}
+.macButtonMinimize-3EJ6wo:hover {
+    background-color: #fdbc40;
+}
+.macButtonMaximize-2FMHAO:hover {
+    background-color: #34c749;
+}
