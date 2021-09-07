@@ -1063,3 +1063,27 @@ button[aria-label="GIF 선택기 열기"] {
 .coverImageActionable-1TMryE.blurred-UUeCTs {
     filter: blur(3px);
 }
+.children-19S4PO {
+    padding-left: 15px;
+}
+.toolbar-1t6TWx {
+    padding-right: 10px;
+}
+.participants-1e7HCI {
+    margin-top: 1px;
+    margin-left: -18px;
+    width: 100%;
+    background-color: transparent!important;
+    box-shadow: 0px 0px 0px;
+    text-shadow: 0px 0px 5px var(--background-primary);
+    
+}
+.toolbar-1t6TWx {
+    margin-right: -37px;
+}
+.buttonSpacing-3apH88.leaveQuietlyButton-1yMc0b {
+    border-radius: 40px!important;
+}
+.colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T {
+    border-radius: 40px!important;
+}
