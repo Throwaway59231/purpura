@@ -27,4 +27,7 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 ![Image of Ginto (Discord's New Font) Replacement](https://i.imgur.com/p9dKG6D.png)  
 *Replacement of Ginto font, Commissioner*  
 ![Image of Roles](https://i.imgur.com/Cd70aws.png)  
-*Rounded roles*
+*Rounded roles* 
+ 
+![Image of Border](https://discord.com/channels/859144241955209226/859147326055251988/888119795642404955)
+*Text Area Border Extra*
