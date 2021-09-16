@@ -8,17 +8,13 @@
 * @updateUrl https://github.com/blueb442/enhanceddefault/blob/main/enhanceddefault.theme.css
 */
 
-/* Main Theme File */
+/* Commissioner font, please do not remove. */
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Main Theme File, please do not remove */
 @import url('https://blueb442.github.io/enhanceddefault/assets/main/main.css');
 
-/* Extras! */ 
-/*  -Darker  */
-/*@import url('https://blueb442.github.io/enhanceddefault/assets/extras/darker.css');*/
-/*  -Input Borders */
-/*@import url('https://blueb442.github.io/enhanceddefault/assets/extras/input-borders.css');*/
-
-/* Commissioner font, and image assets, still very important, please do not remove. */
-@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* Image assets, still very important, please do not remove. */
 @import url('https://blueb442.github.io/enhanceddefault/assets/allinone-sprite.png');
 
 /* Change variables such as background colors, etc. */
