@@ -9,6 +9,7 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 - Rounds various elements a little more, including buttons, dropdowns, modals, and inputs.
 - Looks much better with Windows Discord's title bar
 - Shadows for New Messages and Jump to Bottom bars, along with Message Hover buttons
+- Modals are prettier
 ...and more in progress
 
 ## Images
