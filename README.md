@@ -29,5 +29,5 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 ![Image of Roles](https://i.imgur.com/Cd70aws.png)  
 *Rounded roles* 
  
-![Image of Border](https://cdn.discordapp.com/attachments/859147326055251988/888119795483050034/unknown.png) 
-*Text Area Border Extra*
+![Image of Border](https://cdn.discordapp.com/attachments/859147326055251988/888119795483050034/unknown.png)  
+*Text Area Border Extra*  
