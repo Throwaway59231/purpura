@@ -1069,3 +1069,97 @@ button[aria-label="GIF 선택기 열기"] {
 .controlButton-2MhVEL.centerButton-3CaNcJ {
     border-radius: 30px!important;
 }
+.headerBarContainer-31FKNA {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.container-S9SaVf {
+    border-radius: 12px!important;
+    border-color: transparent;
+    box-shadow: 0px 0px 1px var(--background-secondary);
+    background-color: var(--background-secondary)!important;
+}
+.container-S9SaVf:hover {
+    border-radius: 12px!important;
+    border-color: transparent;
+    box-shadow: 0px 0px 10px var(--background-secondary);
+    background-color: var(--background-secondary)!important;
+}
+.container-7Unqij {
+    box-shadow: 0px 0px 10px var(--background-secondary-alt);
+}
+.speakerContainer-3h4uQU {
+    padding: 5px;
+    border-radius: 30px;
+    background-color: var(--background-secondary-alt);
+    box-shadow: 0px 0px 1px var(--background-secondary-alt);
+}
+.contentContainer-r2-Vlj {
+    padding: 13px;
+}
+.premiumContainer-2Iux5m {
+    padding-top: 7px;
+}
+.title-30qZAO {
+    margin-top: 8px;
+    border-radius: 8px!important;
+}
+.peopleListItem-2nzedh {
+    border-radius: 10px!important;
+    border-color: var(--background-primary)!important;
+}
+.peopleListItem-2nzedh:hover {
+    border-radius: 10px!important;
+    background-color: var(--background-secondary);
+    border-color: var(--background-primary)!important;
+}
+.inline {
+    border-radius: 6px!important;
+}
+.scrollbarGhostHairline-1mSOM1 {
+    border-radius: 6px!important;
+    border-color: transparent!important;
+}
+.mentioned-xhSam7 {
+    border-radius: 8px;
+}
+.embedWrapper-lXpS3L {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.grid-1nZz7S {
+    margin: 2px;
+}
+.cardWrapper-2R6-SX .card-3RzMcx {
+    font-family: var(--font-display);
+    background-color: var(--background-secondary);
+}
+.cardHeader-2Wz67Q {
+    font-weight: 400!important;
+}
+.message-2qnXI6 {
+    border-top-right-radius: 8px!important;
+    border-bottom-right-radius: 8px!important;
+}
+.inputDefault-_djjkz {
+    border-radius: 7px;
+}
+.footer-3UKYOU .inputDefault-_djjkz {
+    background-color: var(--background-tertiary);
+}
+.footer-3UKYOU .inputDefault-_djjkz:hover {
+    background-color: var(--background-tertiary);
+    border-color: transparent;
+}
+.userPopout-xaxa6l {
+    border-radius: 12px!important;
+}
+.divider-3_HH5L {
+    border-color: var(--background-secondary);
+}
+.divider-3_HH5L .content-1o0f9g {
+    color: var(--text-muted);
+}
+.isUnread-3Ef-o9 {
+    border-color: var(--divider-color)!important;
+}
