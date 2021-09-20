@@ -1,5 +1,5 @@
 body {
-    background-color: --background-tertiary!important;
+    background-color: var(--background-tertiary)!important;
 }
 .content-98HsJk {
     margin-top: 13px;
