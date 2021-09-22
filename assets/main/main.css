@@ -1222,3 +1222,7 @@ textarea:focus {
 .inputMini-2xQV9P {
     border-radius: 6px;
 }
+.unreadBar-3t3sYc {
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px var(--background-accent)!important;
+}
