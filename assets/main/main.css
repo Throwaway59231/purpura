@@ -1,6 +1,12 @@
 body {
     background-color: var(--background-tertiary)!important;
 }
+
+:root {
+    --font-headline: Commissioner;
+    --font-code: Fira Code;
+}
+
 .content-98HsJk {
     margin-top: 13px;
 }
@@ -1282,4 +1288,44 @@ textarea:focus {
 }
 .membershipDialog-rVL-t_ {
     border-radius: 10px;
+}
+code {
+    font-family: Fira Code!important;
+}
+
+a[href*="/store"] {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+}
+a[href*="/store"] .avatar-3uk_u9 {
+    margin-right: 0px;
+}
+a[href*="/store"] .name-uJV0GL {
+    display: none;
+}
+
+a[href*="/discovery"] {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+}
+a[href*="/discovery"] .avatar-3uk_u9 {
+    margin-right: 0px;
+}
+a[href*="/discovery"] .name-uJV0GL {
+    display: none;
+}
+
+a[href="/channels/@me"] {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+}
+a[href="/channels/@me"] .avatar-3uk_u9 {
+    margin-right: 0px;
+}
+a[href="/channels/@me"] .name-uJV0GL {
+    display: none;
+}
+
+.content-3YMskv a[href="/channels/@me"],a[href*="/discovery"],a[href*="/store"] {
+    margin-left: 23px;
 }
