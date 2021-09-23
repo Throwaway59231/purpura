@@ -2,14 +2,15 @@
 * @name Enhanced Default
 * @author blueb
 * @authorId 403390454273409028
-* @version 1.6.6
+* @version 1.6.8
 * @description A theme based off of mobile discord, with enhancements
 * @source https://github.com/blueb442/enhanceddefault
 * @updateUrl https://github.com/blueb442/enhanceddefault/blob/main/enhanceddefault.theme.css
 */
 
-/* Commissioner font, please do not remove. */
+/* Commissioner font and Fira Code font, please do not remove. */
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
 
 /* Main Theme File, please do not remove */
 @import url('https://blueb442.github.io/enhanceddefault/assets/main/main.css');
