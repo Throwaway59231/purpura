@@ -1329,3 +1329,64 @@ a[href="/channels/@me"] .name-uJV0GL {
 .content-3YMskv a[href="/channels/@me"],a[href*="/discovery"],a[href*="/store"] {
     margin-left: 23px;
 }
+.itemValue-JNy0LV {
+    font-family: Fira Code;
+    font-size: 14px;
+}
+.botTag-2WPJ74 {
+    border-radius: 5px!important;
+    box-shadow: 0px 0px 3px var(--brand-experiment);
+}
+.nameWrap-3Z4G_9.textRow-19NEd_ {
+    font-weight: normal;
+    font-family: var(--font-primary), Whitney;
+}
+.root-2GkXUO.upsell-34F9Me {
+    display: none;
+}
+.auditLog-2ph_aK {
+    border-radius: 8px!important;
+}
+.headerClickable-g5d9lT {
+    border-radius: 8px!important;
+}
+.auditLog-2ph_aK .flex-1xMQg5.flex-1O1GKY {
+    border-radius: 0px;
+}
+.title-21ph07 {
+    font-family: var(--font-primary), Whitney;
+}
+.container-cMG81i.large-laZJpW {
+    border-radius: 8px;
+    background-color: var(--background-primary);
+    border: solid;
+    border-width: 2px;
+    border-color: var(--background-secondary-alt);
+}
+.bd-button {
+    border-radius: 6px;
+}
+.bd-addon-header {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.bd-addon-card {
+    border-radius: 8px!important;
+}
+.notice-3bPHh- {
+    border-radius: 8px!important;
+}
+.bd-version {
+    font-family: Fira Code;
+    background-color: var(--background-primary);
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-right: 3px;
+    font-size: 12px;
+}
+.info-1VyQPT {
+    font-family: Fira Code;
+}
+.roleRow-30TwGe {
+    border-radius: 8px;
+}
