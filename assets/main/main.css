@@ -1390,3 +1390,64 @@ a[href="/channels/@me"] .name-uJV0GL {
 .roleRow-30TwGe {
     border-radius: 8px;
 }
+.item-26Dhrx:hover {
+    transition: all 0.1s ease;
+}
+.roleRow-30TwGe {
+    transition: all 0.1s ease;
+}
+.container-cMG81i {
+    border-radius: 8px;
+}
+.container-_phMUq {
+    border-radius: 8px!important;
+}
+.container-_phMUq:hover {
+    border-radius: 8px!important;
+    transition: all 0.1s ease;
+}
+.cardWrapper-2Min21 {
+    background-color: var(--background-secondary-alt);
+    border-radius: 8px!important;
+}
+.cardWrapper-2Min21:hover {
+    transition: all 0.1s ease;
+}
+.member-3-YXUe .layout-2DM8Md:hover {
+    transition: all 0.15s ease;
+}
+.wrap-ZIn9Iy.horizontal-2EEEnY {
+    margin-bottom: -22px;
+}
+.slider {
+    border-radius: 3.5px;
+}
+.scrollerBase-289Jih .separator-2I32lJ {
+    display: none;
+}
+.changelogNotice-CQEWmQ {
+    border-radius: 8px;
+}
+.preview-2nSL_2 {
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px var(--background-secondary);
+    border-color: var(--background-secondary);
+}
+.input-cIJ7To {
+    border-radius: 8px!important;
+}
+.questionMark-3qBhGj {
+    border-radius: 6px!important;
+}
+.multiInputLast-33BbRU  input {
+    font-family: Fira Code;
+}
+.focusLock-Ns3yie .colorHeaderPrimary-26Jzh- {
+    font-family: var(--font-display);
+}
+.autocomplete-1vrmpx {
+    border-radius: 8px!important;
+}
+.base-1pYU8j {
+    border-radius: 8px!important;
+}
