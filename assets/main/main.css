@@ -1552,3 +1552,20 @@ a[href="/channels/@me"] .name-uJV0GL {
 .profileBannerPreview-3_l0Wd {
     border-radius: 10px;
 }
+.grabber-3mFHz2 {
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+.flex-1xMQg5 .emojiSection-3Fb9ix {
+    box-shadow: 0px 0px 5px var(--background-tertiary);
+}
+.listRow-1iDGel {
+    padding: 6px!important;
+}
+.listRow-1iDGel .icon-3o6xvg {
+    height: 35px;
+    width: 35px;
+}
+.listRow-1iDGel .listAvatar-1BbvHX {
+    height: 35px!important;
+    width: 35px!important;
+}
