@@ -1514,3 +1514,41 @@ a[href="/channels/@me"] .name-uJV0GL {
 .header-1TOWci {
     box-shadow: 0px 0px 0px!important;
 }
+.reactionSelected-1pqISm {
+    border-radius: 6px;
+}
+.previewContainer-37c2Si {
+    border-radius: 8.5px;
+}
+.userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+    border-radius: 8px;
+}
+.notches-1sAcEM {
+    background-color: transparent;
+}
+.addGamePopout-2RY8Ju {
+    border-radius: 8px;
+    border-color: transparent;
+}
+.flexCenter-3_1bcw {
+    border-radius: 8px;
+}
+.divider-J3ken9 {
+    display: none;
+}
+.wrapper-3nSjSv {
+    background: linear-gradient(150deg,hsl(221,calc(var(--saturation-factor, 1)*70%),55.5%),hsl(269,calc(var(--saturation-factor, 1)*83.8%),71%)) no-repeat;
+}
+.lookInverted-2D7oAl {
+    color: #fff!important;
+    background-color: rgba(255, 255, 255, 0.096)!important;
+}
+.panningAnimation-38NjY9 {
+    border-radius: 8px;
+}
+.noticeWithRightPadding-3OxAxd {
+    border-radius: 12px;
+}
+.profileBannerPreview-3_l0Wd {
+    border-radius: 10px;
+}
