@@ -1,10 +1,11 @@
-body {
-    background-color: var(--background-tertiary)!important;
+:root {
+  --font-display: Commissioner;
+  --font-headline: Commissioner;
+  --font-code: Fira Code;
 }
 
-:root {
-    --font-headline: Commissioner;
-    --font-code: Fira Code;
+body {
+    background-color: var(--background-tertiary)!important;
 }
 
 .content-98HsJk {
@@ -491,9 +492,6 @@ button[aria-label="GIF 선택기 열기"] {
     --deprecated-text-input-prefix: #dcddde;
 }
 
-:root {
-    --font-display: "Commissioner";
-}
 .role-2irmRk {
     border-radius: 15px;
     padding-left: 1px;
