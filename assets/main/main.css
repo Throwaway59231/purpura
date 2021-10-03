@@ -1451,3 +1451,62 @@ a[href="/channels/@me"] .name-uJV0GL {
 .base-1pYU8j {
     border-radius: 8px!important;
 }
+.select-2fjwPw {
+    border-radius: 8px;
+    border-color: var(--background-secondary-alt)!important;
+}
+.popout-VcNcHB {
+    border-radius: 8px;
+    margin-top: 5px;
+    border-color: var(--background-secondary-alt)!important;
+    background-color: var(--background-secondary)!important;
+}
+.option-3KoAJB {
+    background-color: var(--background-secondary)!important;
+}
+.option-3KoAJB:active {
+    background-color: var(--background-secondary-alt)!important;
+}
+.hotspotSwitch-W6cuHF .h5-18_1nd {
+    font-family: Whitney;
+}
+.container-2VW0UT {
+    border-radius: 12px;
+}
+
+.inputDefault-_djjkz {
+    border-color: var(--background-secondary-alt)!important;
+}
+.input-cIJ7To {
+    border-color: var(--background-secondary-alt)!important;
+}
+.textarea-2r0oV8 {
+    border: solid;
+    border-color: transparent!important;
+    border-width: 1px;
+}
+.input-1Rv96N, .inner-3ErfOT {
+    border-radius: 8px;
+}
+.button-11zvza {
+    border-radius: 5px;
+}
+.highlight {
+    border-radius: 5px;
+}
+.emojiPicker-3PwZFl {
+    border-radius: 8px;
+}
+.header-8ilj5e {
+    box-shadow: 0px 0px 0px;
+}
+.tooltip {
+    border-radius: 8px!important;
+}
+
+.result-oB0z-- {
+    border-radius: 8px;
+}
+.quickswitcher-3JagVE {
+    border-radius: 15px;
+}
