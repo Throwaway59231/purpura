@@ -1,5 +1,5 @@
 # enhanced default
-A BetterDiscord theme based off of mobile Discord, with enhancements here and there.
+A BetterDiscord theme based off of mobile Discord, with enhancements..
 
 ## Features
 - Combines Stickers, Gif, and Emoji button into one
@@ -11,6 +11,7 @@ A BetterDiscord theme based off of mobile Discord, with enhancements here and th
 - Looks much better with Windows Discord's title bar
 - Shadows for New Messages and Jump to Bottom bars, along with Message Hover buttons
 - Modals are prettier 
+- More Compact "Friends" "Store" and "Stage Discovery" tabs on Friends List
 ...and more in progress
 
 ## Images
