@@ -23,3 +23,4 @@ A dark purple BetterDiscord theme.
 ![image](https://user-images.githubusercontent.com/76005739/136807176-ab67d54b-3b66-414a-b322-11135e3a7003.png)
 ![image](https://user-images.githubusercontent.com/76005739/136807265-8c526772-27c6-4863-83f3-17ec36b6f7df.png)
 ![image](https://user-images.githubusercontent.com/76005739/136807349-d181d0de-7313-4b11-a1ae-99cf1fbd073f.png)
+![Hnet com-image](https://user-images.githubusercontent.com/76005739/136808442-39fb0b7a-91be-4b1a-bec0-f0dbbd4f414e.gif)
