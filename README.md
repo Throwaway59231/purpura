@@ -19,3 +19,7 @@ A dark purple BetterDiscord theme.
 ...and more in progress
 
 ## Images
+![image](https://user-images.githubusercontent.com/76005739/136807077-5760f0a5-e406-4fb9-8de4-a9bcb996ef1e.png)
+![image](https://user-images.githubusercontent.com/76005739/136807176-ab67d54b-3b66-414a-b322-11135e3a7003.png)
+![image](https://user-images.githubusercontent.com/76005739/136807265-8c526772-27c6-4863-83f3-17ec36b6f7df.png)
+![image](https://user-images.githubusercontent.com/76005739/136807349-d181d0de-7313-4b11-a1ae-99cf1fbd073f.png)
