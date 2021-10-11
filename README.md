@@ -1,5 +1,5 @@
 # purpura
-A dark purple BetterDiscord theme, with font changes, and many small features that make a large difference.
+A dark purple BetterDiscord theme.
 
 ## Features
 - Combines Stickers, Gif, and Emoji button into one
@@ -14,6 +14,8 @@ A dark purple BetterDiscord theme, with font changes, and many small features th
 - More Compact "Friends" and "Store" tabs on Friends List
 - Dark purple colors
 - Smoother modals
+- Animations on popouts
+- "Floating" chunks for server list, channel list, and chat area.
 ...and more in progress
 
 ## Images
