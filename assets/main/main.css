@@ -2084,3 +2084,11 @@ border-radius: 10px;
 .sidebar-CFHs9e {
 padding-top: 20px;
 }
+.uploadModal-2ifh8j, .inner-3nWsbo {
+    background-color: var(--background-primary)!important;
+    border-radius: 12px;
+}
+.footer-3mqk7D {
+    background-color: var(--background-secondary)!important;
+    border-radius: 12px!important;
+}
