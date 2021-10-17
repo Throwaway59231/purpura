@@ -2166,3 +2166,27 @@ padding-top: 20px;
     border: none;
     box-shadow: 0px 0px 5px var(--background-secondary);
 }
+
+/* 
+
+*/
+
+.newMessagesBar-265mhP {
+    border-radius: 8px;
+}
+.scrollableContainer-2NUZem:active {
+    box-shadow: inset 0px 0px 5px var(--background-accent);
+}
+
+.scrollableContainer-2NUZem:focus-within {
+    box-shadow: inset 0px 0px 5px var(--background-accent);
+}
+
+.input-cIJ7To:focus-within {
+    transition: .15s;
+    box-shadow: 0px 0px 5px #5865f27c;
+}
+
+.inputDefault-_djjkz {
+    box-shadow: none!important;
+}
