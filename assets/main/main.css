@@ -2190,3 +2190,13 @@ padding-top: 20px;
 .inputDefault-_djjkz {
     box-shadow: none!important;
 }
+.message-2qnXI6 .messageContent-2qWWxC .timestamp-3ZCmNB {
+    color: transparent;
+}
+.message-2qnXI6:hover .messageContent-2qWWxC .timestamp-3ZCmNB {
+    color: var(--text-muted);
+}
+
+.radioBar-bMNUI-:hover {
+    background-color: var(--background-secondary-alt);
+}
