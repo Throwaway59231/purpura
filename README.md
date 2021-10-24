@@ -5,7 +5,8 @@ A dark purple BetterDiscord theme.
 - Combines Stickers, Gif, and Emoji button into one
 - Takes a mobile, multipanel look
 - Removes the new display font "Ginto" and replaces it with a more bearable "Commissioner"
-- Changes code font to "Fira Code" to replace Consolas
+- Changes code font to "Fira Code" to replace "Consolas"
+- Replaces main "Whitney" font with "Source Sans Pro"
 - Makes roles round again
 - Rounds various elements a little more, including buttons, dropdowns, modals, and inputs.
 - Looks much better with Windows Discord's title bar
