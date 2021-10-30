@@ -2201,3 +2201,17 @@ padding-top: 20px;
 .radioBar-bMNUI-:hover {
     background-color: var(--background-secondary-alt);
 }
+
+
+.root-1gCeng {
+    background-color: var(--background-primary)!important;
+}
+
+.message-2qRu38 {
+    border-radius: 8px;
+    background-color: var(--background-secondary)!important;
+}
+.wrapper-3D2qGf {
+    border-color: var(--background-primary);
+    border-radius: 10px;
+}
