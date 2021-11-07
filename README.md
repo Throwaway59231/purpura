@@ -1,6 +1,6 @@
-# purpura
+<img src="https://user-images.githubusercontent.com/76005739/140655832-ab738fb8-efa1-495a-9868-2a4a0c6960e1.png" alt="Purpura" width="300"/>
 A dark purple BetterDiscord theme.
-
+  
 ## Features
 - Combines Stickers, Gif, and Emoji button into one
 - Takes a mobile, multipanel look
