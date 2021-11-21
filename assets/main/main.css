@@ -2215,3 +2215,35 @@ padding-top: 20px;
     border-color: var(--background-primary);
     border-radius: 10px;
 }
+.tabs-3L9Rgq {
+    border: none;
+    background-color: var(--background-secondary-alt);
+}
+.top-28JiJ- .item-PXvHYJ {
+    background-color: transparent!important;
+}
+.secondaryHeader-2oeRPO {
+    margin-top: -20px;
+}
+.card-3_CqkU, .iconMask-30Tvqs {
+    background-color: var(--background-secondary-alt);
+}
+.bannedUserModal-3RJCOV .content-1x7qW2 {
+    background-color: var(--background-primary)!important;
+}
+.bannedUserModal-3RJCOV .header-kk07Uz {
+    background-color: var(--background-primary)!important;
+}
+.scroller-1SuHJo, .container-2t1JyW, .tileContainer-BaRAZF, .participants-soO0aD {
+    background-color: var(--background-primary)!important;
+}
+.root-217Brm, .chat-3bRxxu, .container-pTf0Ly, .rowContainer-2tYerQ {
+    background-color: var(--background-primary)!important;
+}
+
+.tileContainer-BaRAZF, tileBaseContainer-2b4wJM {
+    background-color: var(--background-secondary)!important;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+}
