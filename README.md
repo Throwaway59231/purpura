@@ -1,4 +1,4 @@
-Purpura
+# Purpura
 A dark purple BetterDiscord theme.
   
 ## Features
