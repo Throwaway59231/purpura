@@ -2352,3 +2352,22 @@ padding-top: 20px;
 .bannerUpsellContainer-1R5Ec2 {
     border-radius: 12px!important;
 }
+.channelTextArea-rNsIhG, .channelTextArea-2VhZ6z {
+    border-radius: 15px!important;
+    box-shadow: 00px 0px 15px var(--background-primary);
+}
+
+.perksModal-1pSu7w {
+    background-color: var(--background-primary)!important;
+}
+
+.wrapper-3t9DeA {
+    box-shadow: none;
+}
+
+.scroller-1-nKid {
+    background-color: var(--background-secondary)!important;
+}
+.reactors-Blmlhw {
+    background-color: var(--background-primary)!important;
+}
