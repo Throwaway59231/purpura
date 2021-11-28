@@ -2371,3 +2371,37 @@ padding-top: 20px;
 .reactors-Blmlhw {
     background-color: var(--background-primary)!important;
 }
+
+.item-3T2z1R {
+    border-radius: 8px!important;
+    margin: 3px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.group-2dAfBy {
+    background-color: transparent;
+}
+
+.closeIcon-21HVgw, .closeIcon-150W3V {
+    height: 16px!important;
+    width: 16px!important;
+    background-color: var(--background-accent);
+    padding: 7px;
+    padding-top: 7px;
+    border-radius: 100px;
+    margin: -7px!important;
+}
+
+.closeIcon-150W3V {
+    margin-top: -15px!important;
+}
+
+.modal-6GHvdM .tabBarContainer-37hZsr {
+    border-radius: 0px!important;
+}
+
+
+.group-spacing-16 .groupStart-23k01U {
+    margin-top: 16px;
+}
