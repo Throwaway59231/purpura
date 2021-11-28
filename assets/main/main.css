@@ -2401,11 +2401,6 @@ padding-top: 20px;
     border-radius: 0px!important;
 }
 
-
-.group-spacing-16 .groupStart-23k01U {
-    margin-top: 16px;
-}
-
 .embedWrapper-lXpS3L {
     border: solid;
     border-color: inherit;
@@ -2416,4 +2411,8 @@ padding-top: 20px;
 
 .imageWrapper-2p5ogY, .embedImage-2W1cML, .embedVideo-3nf0O9 {
     border: none!important;
+}
+
+.group-spacing-16 .groupStart-23k01U {
+    margin-top: 16px;
 }
