@@ -1,0 +1,10 @@
+.embedWrapper-lXpS3L {
+    border: solid;
+    border-width: 3px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px var(--background-secondary-alt);
+}
+
+.imageWrapper-2p5ogY, .embedImage-2W1cML, .embedVideo-3nf0O9 {
+    border: none!important;
+}
