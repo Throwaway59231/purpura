@@ -2428,3 +2428,6 @@ padding-top: 20px;
 .zalgo-jN1Ica .messageContent-2qWWxC, .spoilerText-3p6IlD {
     overflow: visible;
 }
+.content-3YMskv a[href*="/inventory"] {
+    display: none;
+}
