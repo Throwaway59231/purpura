@@ -2415,3 +2415,16 @@ padding-top: 20px;
 .group-spacing-16 .groupStart-23k01U {
     margin-top: 16px;
 }
+
+.spoilerText-3p6IlD {
+    background-color: transparent!important;
+    filter: blur(5px);
+}
+.spoilerText-3p6IlD:hover {
+    background-color: transparent!important;
+    filter: blur(0px);
+}
+
+.zalgo-jN1Ica .messageContent-2qWWxC, .spoilerText-3p6IlD {
+    overflow: visible;
+}
