@@ -16,7 +16,6 @@ A dark purple BetterDiscord theme.
 - Dark purple colors
 - Smoother modals
 - Animations on popouts
-- "Floating" chunks for server list, channel list, and chat area.
 ...and more in progress
 
 ## Images
