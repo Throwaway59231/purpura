@@ -2431,3 +2431,10 @@ padding-top: 20px;
 .content-3YMskv a[href*="/inventory"] {
     display: none;
 }
+
+.input-2VB9rf {
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: var(--background-accent);
+    box-shadow: 0px 0px 10px var(--background-accent);
+}
