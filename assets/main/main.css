@@ -2545,3 +2545,22 @@ svg[class="repliedTextContentIcon-1ivTae"] > path {
     clip-rule: evenodd;
     d: path("M17 12C17 11.4477 17.4477 11 18 11H19C19.5523 11 20 11.4477 20 12V20C20 20.5523 19.5523 21 19 21H18C17.4477 21 17 20.5523 17 20V12Z M10 3C10 2.44771 10.4477 2 11 2H12C12.5523 2 13 2.44772 13 3V20C13 20.5523 12.5523 21 12 21H11C10.4477 21 10 20.5523 10 20V3Z M3 8C3 7.44772 3.44772 7 4 7H5C5.55228 7 6 7.44772 6 8V20C6 20.5523 5.55228 21 5 21H4C3.44772 21 3 20.5523 3 20V8Z");
 }
+
+.edited-3sfAzf {
+    font-size: 0;
+    font-weight: 400;
+}
+
+.edited-3sfAzf:after {
+    font-size:9.5px;
+    content:"(edited)";
+}
+
+.info-1VyQPT:before {
+    color: var(--text-muted);
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: none;
+    font-weight: 500;
+    content:"Purpura by blueb442";
+}
