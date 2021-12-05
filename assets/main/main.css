@@ -9,6 +9,10 @@ body {
     background-color: var(--background-tertiary)!important;
 }
 
+* {
+    text-rendering: optimizeSpeed;
+}
+
 .embedWrapper-lXpS3L {
     border: solid;
     border-width: 3px;
