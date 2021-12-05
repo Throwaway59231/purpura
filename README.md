@@ -29,5 +29,7 @@ A dark purple BetterDiscord theme.
 ### Custom Icons
 ![image](https://user-images.githubusercontent.com/76005739/144732939-c1fc54c3-d666-47b4-b122-ffb6d80200ee.png)
 ![image](https://user-images.githubusercontent.com/76005739/144732979-eb8c412d-772e-4600-9885-66a436093eaa.png)
+![image](https://user-images.githubusercontent.com/76005739/144733007-01a55e8c-6e7c-491b-9f0e-d0371b4541d6.png)
+
 
 
