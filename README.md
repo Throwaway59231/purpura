@@ -16,6 +16,7 @@ A dark purple BetterDiscord theme.
 - Dark purple colors
 - Smoother modals
 - Animations on popouts
+- Eva Icon Library icons for Channels, along with some custom ones  
 ...and more in progress
 
 ## Images
