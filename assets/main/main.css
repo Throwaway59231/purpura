@@ -29,6 +29,17 @@ body {
     border: none;
 }
 
+.PronounDB-pronouns-text {
+    background-color: var(--background-secondary-alt);
+    margin-left: 4px; 
+    border-radius: 8px;
+    padding: 2px;
+    padding-right: 5px;
+}
+.pronoun-db-dot {
+    display: none;
+}
+
 .content-98HsJk {
     margin-top: 13px;
 }
