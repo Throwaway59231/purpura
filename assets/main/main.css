@@ -2619,3 +2619,15 @@ a[rel="noreferrer noopener"] > div >svg > path {
     margin-right: 3px; 
     margin-left: -6px;
 }
+
+.spamBanner-F4eeXk {
+    border-radius: 20px;
+    padding: 6px;
+    padding-right: 16px;
+    background-color: var(--info-danger-background);
+    box-shadow: 0px 0px 15px 0px var(--info-danger-background);
+}
+
+.bannerIcon-fX0iBD {
+    margin: 10px;
+}
