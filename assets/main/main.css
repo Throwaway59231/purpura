@@ -2744,3 +2744,25 @@ button {
     transition: .1s;
     font-family: var(--font-display)!important;
 }
+
+.exampleContainer-3ekFIr {
+    background-image: url('https://raw.githubusercontent.com/blueb442/purpura/main/assets/membership-screening.svg');
+    border-radius: 12px;
+}
+
+.fakeButton-kGEmb3 {
+    border-radius: 8px;
+}
+
+.content-BMIBeK {
+    border-top-right-radius: 12px!important;
+    border-bottom-right-radius: 12px!important;
+}
+
+.horizontal-1ae9ci>.flex-1xMQg5:first-child, .horizontal-1ae9ci>.flexChild-faoVW3:first-child {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px!important;
+}
+.flex-1xMQg5.flex-1O1GKY.exampleModal-2oh58d {
+    border-radius: 12px!important;
+}
