@@ -2728,3 +2728,19 @@ button {
 .colorHeaderSecondary-3Sp3Ft.size16-1P40sf.subheaderText-2wcVZR {
     font-family: var(--font-primary)!important;
 }
+
+.input-2VB9rf {
+    transition: .5s;
+    box-shadow: 0px 0px 10px 0px var(--background-accent);
+    font-family: var(--font-display)!important;
+}
+.input-2VB9rf:hover {
+    transition: .2s;
+    background-color: var(--background-accent);
+    box-shadow: 0px 0px 20px 0px var(--background-accent);
+    font-family: var(--font-display)!important;
+}
+.input-2VB9rf:active {
+    transition: .1s;
+    font-family: var(--font-display)!important;
+}
