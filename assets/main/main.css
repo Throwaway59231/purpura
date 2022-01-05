@@ -2766,3 +2766,34 @@ button {
 .flex-1xMQg5.flex-1O1GKY.exampleModal-2oh58d {
     border-radius: 12px!important;
 }
+
+.welcomeChannel-HpqRfR {
+    border-radius: 10px;
+}
+
+.previewContainer-1EyRlj {
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+.card-B2gQB5 {
+    background-color: var(--background-secondary-alt);
+    border-radius: 10px;
+    font-family: var(--font-display);
+}
+
+.container-1ArfEZ.checklist-Q2wuVY {
+    border-radius: 10px;
+}
+
+img[src="/assets/016a7d812fd4854aa4b7a5b9c539b48d.svg"] {
+    border-radius: 12px;
+}
+
+.progressBarImage-30Fkrm {
+    border-radius: 12px!important;
+}
+
+.avatarUploaderInner-3UNxY3 {
+    border-radius: 20px!important;
+}
