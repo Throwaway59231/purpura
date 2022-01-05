@@ -2705,3 +2705,26 @@ button {
     font-family: var(--font-display);
     font-size: 10px;
 }
+
+.button-14-BFJ:hover {
+    background-color: var(--background-primary)!important;
+}
+
+.list-1hif6B {
+    background-color: var(--background-primary);
+}
+
+.navRow-3bgpKd {
+    background: #121016!important;
+    border-radius: 12px!important;
+}
+
+.authBox-hW6HRx {
+    background: #15131a!important;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.colorHeaderSecondary-3Sp3Ft.size16-1P40sf.subheaderText-2wcVZR {
+    font-family: var(--font-primary)!important;
+}
