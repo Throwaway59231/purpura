@@ -2802,3 +2802,109 @@ img[src="/assets/016a7d812fd4854aa4b7a5b9c539b48d.svg"] {
     font-family: var(--font-display)!important;
     font-weight: medium!important;
 }
+
+.emojiButtonNormal-TdumYh, .emojiButton-3uL3Aw, .emojiButton-pET4wH {
+    margin-right: 8px!important;
+}
+
+label .checked-3_4uQ9 {
+    background-color: var(--brand-experiment-500)!important;
+    border: var(--brand-experiment-500)!important;
+}
+
+.planOptionDiscount-cS8uaO {
+    border-radius: 8px;
+    border: solid;
+    background-color: transparent;
+    border-width: 2px;
+    border-color: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%);
+    margin-left: 15px;
+    font-family: var(--font-display);
+    font-size: 11px;
+}
+
+.totalRow-br_EPR.selectPlanTotalRow-Coq3OB {
+    font-family: var(--font-display)!important;
+}
+
+.cardInput-1hh1N-, .cardNumberWrapper-2D83Wo {
+    border-radius: 8px;
+}
+
+.addGamePopout-2RY8Ju {
+    background-color: var(--background-primary)!important;
+    border-radius: 10px;
+}
+
+.gameNameInput-385LoS:hover {
+    border-radius: 8px;
+    border-color: var(--background-secondary-alt)!important;
+    background-color: var(--background-secondary)!important;
+}
+
+.bd-select {
+    border-radius: 8px;
+}
+
+.bd-search-wrapper {
+    border-radius: 8px!important;
+}
+
+.bd-button {
+    border-radius: 8px!important;
+}
+
+.embedVideoImageComponentInner-2Ujh_1 {
+    border-radius: 8px!important;
+}
+
+.wrapper-129saQ {
+    border-radius: 20px;
+}
+
+.iconExternalMargins-2v2mzg {
+    margin-left: 10px;
+}
+
+.attendeeCTA-3ZZQWt {
+    background-color: var(--background-secondary);
+    border: none;
+}
+
+.separator-PE-_y1 {
+    background-color: var(--background-accent)!important;
+}
+
+.quizResultLogoWrapperHouse3-2oQS9n {
+    height: 130px;
+    width: 130px;
+}
+
+.quizResultLogo-QNVISZ {
+    height: 85px;
+    width: 85px;
+}
+
+.wrapper-2K37PN {
+    margin-top: 10px;
+}
+
+.quizResultBody-2x52di {
+    text-align: center;
+}
+
+.iconContainer-2aaq6z {
+    background-color: var(--background-secondary);
+}
+
+.leaveQuietlyButton-1yMc0b {
+    border-radius: 12px!important;
+}
+
+.overlayTitle-8IcS01 {
+    border-radius: 8px!important;
+}
+
+.button-3HqqDX {
+    border-radius: 12px;
+}
