@@ -5,15 +5,7 @@
   --font-code: Fira Code;
 }
 
-body {
-    background-color: var(--background-tertiary)!important;
-}
-
-* {
-    text-rendering: optimizeSpeed!important;
-}
-
-* {
+html, * {
     --accent: rgb(191, 112, 255);
     --brand-experiment-100: rgb(180, 95, 250);
     --brand-experiment-130: rgb(180, 95, 250);
@@ -61,6 +53,14 @@ body {
     --brand-experiment-90a: rgb(180, 95, 250);
     --brand-experiment-95a: rgb(180, 95, 250);
     --bd-blue: rgb(180, 95, 250);
+}
+
+body {
+    background-color: var(--background-tertiary)!important;
+}
+
+* {
+    text-rendering: optimizeSpeed!important;
 }
 
 .embedWrapper-lXpS3L {
