@@ -10,7 +10,57 @@ body {
 }
 
 * {
-    text-rendering: optimizeSpeed;
+    text-rendering: optimizeSpeed!important;
+}
+
+* {
+    --accent: rgb(191, 112, 255);
+    --brand-experiment-100: rgb(180, 95, 250);
+    --brand-experiment-130: rgb(180, 95, 250);
+    --brand-experiment-160: rgb(180, 95, 250);
+    --brand-experiment-200: rgb(180, 95, 250);
+    --brand-experiment-230: rgb(180, 95, 250);
+    --brand-experiment-260: rgb(180, 95, 250);
+    --brand-experiment-300: rgb(180, 95, 250);
+    --brand-experiment-330: rgb(180, 95, 250);
+    --brand-experiment-360: rgb(180, 95, 250);
+    --brand-experiment-400: rgb(180, 95, 250);
+    --brand-experiment-430: rgb(180, 95, 250);
+    --brand-experiment-460: rgb(180, 95, 250);
+    --brand-experiment: rgb(180, 95, 250);
+    --brand-experiment-500: rgb(180, 95, 250);
+    --brand-experiment-530: rgb(180, 95, 250);
+    --brand-experiment-560: rgb(180, 95, 250);
+    --brand-experiment-600: rgb(180, 95, 250);
+    --brand-experiment-630: rgb(180, 95, 250);
+    --brand-experiment-660: rgb(180, 95, 250);
+    --brand-experiment-700: rgb(180, 95, 250);
+    --brand-experiment-730: rgb(180, 95, 250);
+    --brand-experiment-760: rgb(180, 95, 250);
+    --brand-experiment-800: rgb(180, 95, 250);
+    --brand-experiment-830: rgb(180, 95, 250);
+    --brand-experiment-860: rgb(180, 95, 250);
+    --brand-experiment-900: rgb(180, 95, 250);
+    --brand-experiment-05a: rgb(180, 95, 250);
+    --brand-experiment-10a: rgb(180, 95, 250);
+    --brand-experiment-15a: rgb(180, 95, 250);
+    --brand-experiment-20a: rgb(180, 95, 250);
+    --brand-experiment-25a: rgb(180, 95, 250);
+    --brand-experiment-30a: rgb(180, 95, 250);
+    --brand-experiment-35a: rgb(180, 95, 250);
+    --brand-experiment-40a: rgb(180, 95, 250);
+    --brand-experiment-45a: rgb(180, 95, 250);
+    --brand-experiment-50a: rgb(180, 95, 250);
+    --brand-experiment-55a: rgb(180, 95, 250);
+    --brand-experiment-60a: rgb(180, 95, 250);
+    --brand-experiment-65a: rgb(180, 95, 250);
+    --brand-experiment-70a: rgb(180, 95, 250);
+    --brand-experiment-75a: rgb(180, 95, 250);
+    --brand-experiment-80a: rgb(180, 95, 250);
+    --brand-experiment-85a: rgb(180, 95, 250);
+    --brand-experiment-90a: rgb(180, 95, 250);
+    --brand-experiment-95a: rgb(180, 95, 250);
+    --bd-blue: rgb(180, 95, 250);
 }
 
 .embedWrapper-lXpS3L {
