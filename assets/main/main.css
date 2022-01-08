@@ -33,6 +33,25 @@ html, * {
     --brand-experiment-830: rgb(180, 95, 250);
     --brand-experiment-860: rgb(180, 95, 250);
     --brand-experiment-900: rgb(180, 95, 250);
+    --brand-experiment-05a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-10a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-15a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-20a: rgba(180, 95, 250, 0.459);
+    --brand-experiment-25a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-30a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-35a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-40a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-45a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-50a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-55a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-60a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-65a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-70a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-75a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-80a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-85a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-90a: rgba(180, 95, 250, 0.137);
+    --brand-experiment-95a: rgba(180, 95, 250, 0.137);
     --bd-blue: rgb(180, 95, 250);
 }
 
