@@ -867,6 +867,15 @@ button[aria-label="GIF 선택기 열기"] {
     border-radius: 30px!important;
     padding-left: 7px;
 }
+
+.panels-3wFtMD {
+    background-color: var(--background-secondary);
+}
+
+.peopleColumn-1wMU14 {
+    background-color: var(--background-secondary);
+}
+
 .container-3XJ8ns {
     background-color: var(--background-secondary)!important;
     border-radius: 8px;
