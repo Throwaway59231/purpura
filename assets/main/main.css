@@ -425,3 +425,53 @@ button[aria-label="GIF 선택기 열기"] {
 .scrollableContainer-15eg7h {
     background-color: var(--background-accent);
 }
+
+.scrollableContainer-15eg7h {
+    border-radius: 12px;
+}
+
+.mention {
+    border-radius: 8px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+button, .item-1OdjEX, .item-3XjbnG, .content-1gYQeQ {
+    border-radius: 8px!important;
+}
+
+:root {
+    --is: #a890b30e;
+}
+
+.modeSelected-3DmyhH .content-1gYQeQ, .selected-g-kMVV .item-3XjbnG {
+    background-color: var(--is)!important;
+}
+
+.menu-1QACrS {
+    border-radius: 10px;
+}
+
+.panels-3wFtMD {
+    padding: 3px;
+    background-color: var(--background-secondary);
+}
+
+.sidebar-1tnWFu {
+    margin-top: 10px;
+    margin-right: 5px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+
+.chat-2ZfjoI {
+    margin-top: 10px;
+    margin-right: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+#BDFDB-card {
+    border-radius: 8px;
+}
