@@ -475,3 +475,51 @@ button, .item-1OdjEX, .item-3XjbnG, .content-1gYQeQ {
 #BDFDB-card {
     border-radius: 8px;
 }
+
+.selected-g-kMVV.item-3XjbnG {
+    background-color: var(--is)!important;
+}
+
+.accountProfileCard-lbN7n- {
+    border-radius: 15px;
+}
+
+.notice-1Qe0b_{
+    border-radius: 12px;
+}
+
+.radioBar-3w9XY-, .item-2idW98 {
+    border-radius: 12px;
+}
+
+.codeRedemptionRedirect-2hYMSQ, .noItemsCard-2V85P5 {
+    border-radius: 12px;
+    background-color: var(--background-secondary)!important;
+    border: none;
+}
+
+input, .select-1Ia3hD, .container-3jbRo5 {
+    border-radius: 8px!important;
+}
+
+.card-16VQ8C {
+    border-radius: 12px;
+    border: none;
+}
+
+.container-3NTP7o {
+    border-radius: 5px!important;
+}
+
+.formNotice-2nS8ey {
+    background-color: var(--background-secondary);
+}
+
+.activeGame-1OdxzI, .bd-addon-card {
+    border-radius: 8px!important;
+}
+
+.grabber-2GQyvM {
+    border-radius: 15px;
+    width: 13px;
+}
