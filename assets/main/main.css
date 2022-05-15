@@ -920,3 +920,153 @@ button {
     background-color: transparent;
     border: solid 2px var(--background-accent);
 }
+
+.perksModalContentWrapper-3RHugb {
+    background-color: var(--background-primary);
+}
+
+.tierTitle--wPpA8 {
+    font-family: var(--font-display);
+}
+
+.tierHeader-wgo0w_, .tierHeaderLocked-3ItHYn {
+    border-top-left-radius: 8px!important;
+    border-top-right-radius: 8px!important;
+    background-color: var(--background-secondary)!important;
+}
+
+.tierBody-3ju-rc {
+    background-color: var(--background-secondary)!important;
+    border-bottom-left-radius: 8px!important;
+    border-bottom-right-radius: 8px!important;
+}
+
+.perk-19D_HN {
+    background-color: var(--background-secondary)!important;
+}
+
+.userPopout-2j1gM4[data-user-id="403390454273409028"] .headerText-1-WmDq::after{
+  content:"Purpura Developer";
+  margin-top: 5px!important;
+  color: rgb(117, 117, 117);
+  font-size: 13px;
+  font-family: var(--font-display), sans-serif;
+  font-weight: 500;
+}
+
+.inputDefault-3FGxgL, .input-2g-os5, .select-1Ia3hD.disabled-28GpyJ, .select-1Ia3hD.lookFilled-1GseHa {
+    background-color: var(--background-secondary)!important;
+}
+
+textarea[aria-label="Note"] {
+    background-color: transparent!important;
+}
+
+.header-3_zmOb {
+    background-color: var(--background-secondary-alt)!important;
+}
+
+.px-MnE_OR.botTag-7aX5WZ { 
+    border-radius: 5px;
+}
+
+.tabBarItem-30Te4-.selected-g-kMVV, .tabBarItem-30Te4-:hover {
+    background-color: var(--background-floating)!important;
+    border-radius: 0px!important;
+}
+
+
+.searchFilter-2UfsDk {
+    padding-left: 5px;
+    background-color: var(--background-primary)!important;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.searchAnswer-23w-CH {
+    padding-right: 5px;
+    background-color: var(--background-primary)!important;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.queryContainer-ZunrLZ {
+    background-color: var(--background-floating)!important;
+}
+
+.option-ayUoaq {
+    border-radius: 8px;
+}
+
+.avatarUploader-2S1mwW .avatarUploaderInner-1Cp1oP, .avatarUploaderDisabled-1ewBlI .avatarUploaderInner-1Cp1oP {
+    height: 170px;
+    width: 170px;
+}
+
+.avatarUploaderInnerSquare-2J8lU8 {
+    border-radius: 8px!important;
+}
+
+.roleName-1zfJkq {
+    font-family: var(--font-display);
+    margin-left: 3px;
+    font-size: 14px;
+}
+
+.imageUploaderInner-IIRaFr.avatarUploaderInner-1Cp1oP:hover {
+    border-radius: 55px;
+    transition: .1s;
+}
+
+.imageUploaderInner-IIRaFr.avatarUploaderInner-1Cp1oP {
+    transition: .5s;
+}
+
+.imageUploaderIcon-2OHmFu {
+    height: 28px;
+    width: 28px;
+}
+
+.itemFilled-1cPbtg[aria-checked=true] {
+    background-color: var(--background-accent)!important;
+}
+
+.itemFilled-1cPbtg:hover {
+    transition: .2s;
+    background-color: var(--background-accent)!important;
+}
+
+.container-20TyK0 {
+    border-radius: 10px;
+    opacity: 93%;
+    background-color: var(--background-secondary-alt)!important;
+}
+
+.message-3C6JQ1 {
+    font-family: var(--font-display);
+}
+
+.name-3IqW9M, .membersHeader-6GlAlu {
+    font-family: var(--font-display);
+}
+
+.membersFilterPopout-2bbQRK {
+    border-radius: 10px;
+}
+
+.countdown-305GRY, .uses-28EKvR, .inviteCode-3IYjBf {
+    font-family: var(--font-code);
+}
+
+.item-3XjbnG[aria-label="Delete Server"] {
+    border: solid 1px;
+    border-color: var(--status-danger);
+    color: white;
+    font-size: 14px;
+    font-family: var(--font-display);
+}
+
+.timestampInline-_lS3aK {
+    font-family: var(--font-display);
+    font-size: 11px!important;
+}
