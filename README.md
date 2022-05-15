@@ -11,8 +11,6 @@ A dark purple BetterDiscord theme.
 - Rounds various elements a little more, including buttons, dropdowns, modals, and inputs.
 - Looks much better with Windows Discord's title bar
 - Shadows for New Messages and Jump to Bottom bars, along with Message Hover buttons
-- Modals are prettier 
-- More Compact "Friends" and "Store" tabs on Friends List
 - Dark purple colors
 - Smoother modals
 - Animations on popouts
