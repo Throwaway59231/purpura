@@ -772,3 +772,15 @@ button {
 .inviteRow-3vmB7i {
     border-radius: 8px!important;
 }
+
+.option-ayUoaq:after {
+    display: none;
+}
+
+.container-2McqkF {
+    border-radius: 8px;
+}
+
+.repliedMessage-3Z6XBG:before {
+    border-color: var(--background-accent);
+}
