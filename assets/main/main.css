@@ -706,3 +706,69 @@ svg[class="repliedTextContentIcon-1ivTae"] > path {
     border: none!important;
     border-color: transparent!important;
 }
+.channelMention {
+    font-size: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 5px;
+    font-family: var(--font-display);
+}
+
+.jump-1vIlrw {
+    border-radius: 8px;
+}
+
+.inputDefault-3FGxgL, .input-2g-os5, .select-1Ia3hD.disabled-28GpyJ, .select-1Ia3hD.lookFilled-1GseHa {
+    border: none;
+    background-color: var(--background-accent);
+}
+
+.roleRow-230vCm {
+    border-radius: 10px;
+}
+
+.roleRow-230vCm:hover:not(.roleRowDisableHover-3En0vy) {
+    border-radius: 10px;
+    background-color: var(--background-secondary);
+}
+
+.container-3EtAkD {
+    border-radius: 10px;
+}
+
+.container-3EtAkD:hover {
+    transition: .2s;
+    border-radius: 10px;
+    background-color: var(--background-secondary-alt);
+}
+
+.container-2oNtJn {
+    border-radius: 8px;
+}
+
+.inputDefault-3FGxgL, .inputDefault-1AaKiD, .copyInputDefault-3jiMHw.copyInput-3AbKWB {
+    border-radius: 8px;
+    background-color: var(--background-accent)!important;
+}
+
+.radioBar-3w9XY- {
+    border-radius: 10px;
+}
+
+.root-g14mjS, .footer-1hTRRZ {
+    border-radius: 10px;
+    border: none!important;
+    background-color: var(--background-primary)!important;
+}
+
+.inputDefault-3FGxgL, .input-2g-os5, .select-1Ia3hD.disabled-28GpyJ, .select-1Ia3hD.lookFilled-1GseHa {
+    border-radius: 8px!important;
+}
+
+button {
+    font-family: var(--font-display);
+}
+
+.inviteRow-3vmB7i {
+    border-radius: 8px!important;
+}
