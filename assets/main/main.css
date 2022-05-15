@@ -1070,3 +1070,94 @@ textarea[aria-label="Note"] {
     font-family: var(--font-display);
     font-size: 11px!important;
 }
+
+.applicationStore-2nk7Lo {
+    margin-top: 10px;
+    margin-right: 10px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.channel-1Shao0[aria-posinset="2"] .avatar-1HDIsL {
+    padding-left: 25px;
+}
+
+.channel-1Shao0[aria-posinset="2"] {
+    width: 100px;
+    display: inline-block;
+}
+
+.avatarWithText-1tTt2S .content-66wMin {
+    display: none;
+}
+
+.channel-1Shao0[aria-posinset="1"] .avatar-1HDIsL {
+    padding-left: 25px;
+}
+
+.channel-1Shao0[aria-posinset="1"] {
+    width: 100px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.avatarWithText-1tTt2S .content-66wMin {
+    display: none;
+}
+
+.searchBarComponent-18D6hD {
+    border-radius: 8px;
+}
+
+.tag-15zcD_ {
+    border-radius: 5px;
+}
+
+.friendSelected-3cwmD7 {
+    border-radius: 8px;
+}
+
+.contentTransitionWrap-1YD530 h3[class="defaultColor-24IHKz heading-xl-medium-_XBxHT defaultColor-HXu-5n"] {
+    font-weight: 700;
+}
+
+button[class="button-1kaRT6 button-f2h6uQ lookFilled-yCfaCM colorBrand-I6CyqQ sizeMedium-2bFIHr grow-2sR_-F"] .contents-3ca1mk {
+    width: 150px;
+}
+
+.perkTitle-1GQnag {
+    font-family: var(--font-display);
+}
+
+.tierBody-1d3UiS {
+    background-color: var(--background-secondary)!important;
+    border-bottom-right-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;
+}
+
+.tierHeader-3q9jIw {
+    background-color: var(--background-secondary)!important;
+    border-top-right-radius: 10px!important;
+    border-top-left-radius: 10px!important;
+}
+
+.background-3xJH_4, .tierInProgress-1vFUnw {
+    color: var(--background-accent)!important;
+    background-color: var(--background-accent)!important;
+}
+
+.mention {
+    font-size: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 5px;
+    font-family: var(--font-display);
+}
+
+.banner-1YaD3N {
+    border-radius: 8px;
+}
+
+.profileCardUsernameRow-1bb6fi .username-3JLfHz {
+    font-weight: 700;
+}
