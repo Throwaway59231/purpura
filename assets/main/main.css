@@ -809,3 +809,84 @@ button {
     border-radius: 5px;
     background-color: transparent!important;
 }
+
+.selected-1-Z6gm .layout-1qmrhw {
+    background-color: var(--background-accent);
+}
+
+.searchBar-jGtisZ {
+    border-radius: 7px;
+}
+
+.container-2ebMPP {
+    border-radius: 10px;
+}
+
+.spoilerText-27bIiA {
+    border-radius: 6px;
+    background-color: var(--background-accent)!important;
+}
+
+.message-2CShn3 {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.header-3OsQeK {
+    border-radius: 12px;
+}
+
+.reactors-1VXca7 {
+    background-color: var(--background-primary)!important;
+}
+
+.scroller-2GkvCq {
+    background-color: var(--background-secondary)!important;
+}
+
+.reactionSelected-1aMb2K {
+    border-radius: 8px;
+}
+
+.container-2cd8Mz {
+    margin-top: 10px;
+    margin-right: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: #15131a!important;
+}
+
+.container-ZMc96U.themed-Hp1KC_ {
+    background: #15131a!important;
+}
+
+.itemCard-3Etziu {
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+.itemCard-3Etziu:hover {
+    transition: .1s;
+    background-color: var(--background-secondary-alt)!important;
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+.peopleListItem-u6dGxF:hover {
+    background-color: var(--background-secondary);
+}
+
+.item-3mHhwr {
+    font-family: var(--font-display);
+    font-size: 14px;
+}
+
+.mention {
+    border-radius: 6px;
+}
+
+.wrapper-2vIMkT {
+    border-radius: 8px;
+    background-color: var(--background-secondary);
+    border: none;
+}
