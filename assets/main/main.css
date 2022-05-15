@@ -784,3 +784,28 @@ button {
 .repliedMessage-3Z6XBG:before {
     border-color: var(--background-accent);
 }
+
+.messagesPopoutWrap-3zryHW {
+    border-radius: 10px;
+}
+
+.footer-5ji8u1, .header-1w9Q93 {
+    background-color: var(--background-secondary-alt);
+}
+
+.messageGroupWrapper-1jf_7C {
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+.footer-31IekZ {
+    box-shadow: none!important;
+    border-radius: 10px;
+    background-color: var(--background-secondary);
+    border-color: var(--background-secondary)!important;
+}
+
+.textarea-_59yqs {
+    border-radius: 5px;
+    background-color: transparent!important;
+}
