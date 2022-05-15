@@ -659,3 +659,50 @@ svg[class="repliedTextContentIcon-1ivTae"] > path {
 .tooltipPointer-3L49xb {
     display: none;
 }
+
+.layout-1qmrhw {
+    border-radius: 8px!important;
+    font-family: var(--font-display);
+}
+
+.name-3Vmqxm {
+    font-size: 14.5px!important;
+}
+
+.activityText-1rR-8O {
+    font-family: var(--font-primary);
+    font-size: 12px!important;
+}
+
+* {
+    --elevation-low: 0px 0px 6px var(--background-secondary);
+}
+
+.input-3r5zZY {
+    transition: .5s;
+    text-align: center;
+    background-color: var(--background-accent);
+    box-shadow: 0px 0px 10px 0px var(--background-accent);
+    font-family: var(--font-display)!important;
+}
+.input-3r5zZY:hover {
+    transition: .2s;
+    background-color: var(--background-accent);
+    box-shadow: 0px 0px 20px 0px var(--background-accent);
+    font-family: var(--font-display)!important;
+}
+.input-3r5zZY:active {
+    transition: .1s;
+    font-family: var(--font-display)!important;
+}
+
+.result-u66Ywh {
+    border-radius: 8px;
+    background-color: var(--background-accent)!important;
+}
+
+.quickswitcher-pKcM9U, .container-qBnZJg {
+    border-radius: 15px;
+    border: none!important;
+    border-color: transparent!important;
+}
