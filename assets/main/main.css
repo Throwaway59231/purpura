@@ -637,3 +637,25 @@ svg[class="repliedTextContentIcon-1ivTae"] > path {
 .botTag-2mryIa, .botTagCompact-1idyyC, .botTagCozy-3NTBvK {
     border-radius: 5px!important;
 }
+.channel-1Shao0 {
+    border-radius: 8px;
+}
+
+.selected-3veCBZ {
+    background-color: var(--background-primary);
+}
+
+* {
+    text-rendering: optimizeSpeed;
+}
+
+.tooltip-14MtrL {
+    background-color: var(--background-tertiary)!important;
+    border-radius: 8px;
+    box-shadow: 0px 1px 6px 0px var(--background-tertiary)!important;
+    margin-left: -6px;
+}
+
+.tooltipPointer-3L49xb {
+    display: none;
+}
