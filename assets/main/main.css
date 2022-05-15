@@ -523,3 +523,40 @@ input, .select-1Ia3hD, .container-3jbRo5 {
     border-radius: 15px;
     width: 13px;
 }
+
+* {
+    --scrollbar-thin-thumb: #0e0c11;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #0e0c11;
+    --scrollbar-auto-track: transparent;
+    --scrollbar-auto-scrollbar-color-thumb: #0e0c11;
+    --scrollbar-auto-scrollbar-color-track: transparent;
+    --background-floating: #0a080c;
+}
+
+.autocomplete-3NRXG8, .autocompleteInner-2tOQrf {
+    border-radius: 10px!important;
+    background-color: var(--background-secondary-alt);
+}
+.selected-3H3-RC.base-2v-uc0 {
+    background-color: var(--background-secondary);
+    border-radius: 8px;
+}
+
+.searchBar-2M9mRP {
+    border-radius: 8px;
+}
+
+.username-h_Y3Us {
+    font-family: var(--font-display);
+    font-size: 15px;
+}
+
+.role-2TIOKu {
+    border-radius: 6px;
+    background-color: var(--background-primary);
+}
+
+.userPopout-2j1gM4 {
+    border-radius: 12px;
+}
