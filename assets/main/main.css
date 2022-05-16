@@ -1161,3 +1161,72 @@ button[class="button-1kaRT6 button-f2h6uQ lookFilled-yCfaCM colorBrand-I6CyqQ si
 .profileCardUsernameRow-1bb6fi .username-3JLfHz {
     font-weight: 700;
 }
+
+.connectedAccountName-j0meX4 {
+    font-size: 14px;
+    font-family: var(--font-display);
+}
+
+.connectedAccount-1xKpli {
+    border-radius: 8px;
+    background-color: var(--background-secondary-alt);
+    border-color: transparent;
+}
+
+.searchBarComponent-3N7dCG {
+    text-align: center!important;
+}
+
+div[aria-label="Quick switcher"] .root-g14mjS {
+    background-color: transparent!important;
+}
+
+.button-3bklZh:hover {
+    border-radius: 8px!Important;
+}
+
+.mention {
+    padding-left: 5px;
+}
+
+.root-22AK9z {
+    background-color: var(--background-secondary-alt)!important;
+}
+
+.speakerRaiseHandButton-2xNQGu {
+    background-color: var(--background-primary)!important;
+}
+
+.buttonSpacing-ZuQU_D[aria-label="Invite"] {
+    background-color: var(--background-primary)!important;
+}
+
+.makeMeASpeakerButton-I5v_9C {
+    background-color: var(--background-primary)!important;
+}
+
+.controlButton-2PMNom {
+    border-radius: 100px!important;
+}
+
+.channelIcon-3I2O7O {
+    margin-left: 2px;
+}
+
+code[class="inline"] {
+    border-radius: 6px!important;
+}
+
+.addGamePopout-2SKNIV {
+    border: solid 0px transparent;
+    border-radius: 8px;
+    background-color: var(--background-primary)!important;
+}
+
+.membershipDialog-2wAdpQ {
+    border-radius: 10px;
+}
+
+.title-2pQsrN {
+    font-family: var(--font-display);
+}
