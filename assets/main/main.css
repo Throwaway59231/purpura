@@ -1078,33 +1078,6 @@ textarea[aria-label="Note"] {
     border-top-right-radius: 12px;
 }
 
-.channel-1Shao0[aria-posinset="2"] .avatar-1HDIsL {
-    padding-left: 25px;
-}
-
-.channel-1Shao0[aria-posinset="2"] {
-    width: 100px;
-    display: inline-block;
-}
-
-.avatarWithText-1tTt2S .content-66wMin {
-    display: none;
-}
-
-.channel-1Shao0[aria-posinset="1"] .avatar-1HDIsL {
-    padding-left: 25px;
-}
-
-.channel-1Shao0[aria-posinset="1"] {
-    width: 100px;
-    margin-left: 15px;
-    display: inline-block;
-}
-
-.avatarWithText-1tTt2S .content-66wMin {
-    display: none;
-}
-
 .searchBarComponent-18D6hD {
     border-radius: 8px;
 }
