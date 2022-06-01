@@ -1203,3 +1203,55 @@ code[class="inline"] {
 .title-2pQsrN {
     font-family: var(--font-display);
 }
+
+.exampleContainer-2O-nVK {
+    background-image: url('https://raw.githubusercontent.com/blueb442/purpura/main/assets/membership-screening.svg');
+    border-radius: 12px;
+}
+
+.message-G6O-Wv {
+    border-radius: 10px;
+    background-color: var(--background-secondary)!important;
+}
+
+.radioBar-3w9XY- .radioLabelName-3FiyYq {
+    font-family: var(--font-display)!important;
+}
+
+.content-1Tgc42 {
+    border-radius: 8px!important;
+}
+
+.list-2u03C- {
+    border-top-right-radius: 10px;
+    background-color: var(--background-primary);
+}
+
+.categoryHeader-OpJ1Ly {
+    box-shadow: 0px 0px 5px var(--background-primary)!important;
+    background-color: var(--background-primary)!important;
+}
+
+.base-2v-uc0 {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.base-2v-uc0:hover {
+    border-radius: 8px!important;
+    padding-right: 20px;
+    background-color: var(--background-secondary)!important;
+}
+
+.optionPill-2kmuZR, .optionPillKey-2JyeoP {
+    border-radius: 7px;
+    margin-left: 4px;
+}
+
+.name-1DypRz, .commandName-1s8HNs {
+    font-family: var(--font-display);
+}
+
+.base-2v-uc0 {
+    border-radius: 8px!important;
+}
