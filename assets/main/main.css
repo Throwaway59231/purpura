@@ -1255,3 +1255,41 @@ code[class="inline"] {
 .base-2v-uc0 {
     border-radius: 8px!important;
 }
+
+
+.footer-VCsJQY {
+    border-radius: 10px!important;
+    background-color: var(--background-secondary);
+}
+
+.ephemeral-2nDdnn {
+    box-shadow: 0px 0px 30px rgba(88, 101, 242, 0.08);
+}
+
+.component-ifCTxY {
+    background-color: var(--background-accent)!important;
+}
+
+.reaction-3vwAF2 {
+    border-radius: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+
+.reaction-3vwAF2 .emoji {
+    margin-left: -1px!important;
+    border-radius: 3px;
+}
+
+.reactors .more-reactors {
+    margin-right: -3px!important;
+}
+
+.blockquoteDivider-363utW {
+    background-color: var(--background-accent);
+}
+
+.embedFull-1HGV2S {
+    border-radius: 6.5px!important;
+}
